@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MatesXxX\\source\\repos\\CS_AWS_EC2\\CS_AWS_EC2.csproj",
+      "projectUniqueName": "D:\\VSCODE\\CS.AWS_EC2\\CS_AWS_EC2.csproj",
       "projectName": "CS_AWS_EC2",
-      "projectPath": "C:\\Users\\MatesXxX\\source\\repos\\CS_AWS_EC2\\CS_AWS_EC2.csproj",
+      "projectPath": "D:\\VSCODE\\CS.AWS_EC2\\CS_AWS_EC2.csproj",
       "packagesPath": "C:\\Users\\MatesXxX\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MatesXxX\\source\\repos\\CS_AWS_EC2\\obj\\",
+      "outputPath": "D:\\VSCODE\\CS.AWS_EC2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
